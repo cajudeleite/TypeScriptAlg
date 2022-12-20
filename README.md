@@ -7,15 +7,21 @@ If I had to give you one piece of advice, is to code **functionaly** and not imp
 Before you start, don't forget to do the setup and most importantly, **don't cheat!** The aim of these challenges is so you can improve your coding skills and have fun.
 ## Setup
 
-Before all, don't forget to run:
+Before all, don't forget to run either:
 
 ```bash
   yarn install
 ```
-    
+
+Or:
+
+```bash
+  npm install
+```
+
 ## Challenges
 
-You'll see that there are many files in the root, but forget about those. You'll want to open the `challenges` folder. There you'll find all the challenges, each one in its own folder. 
+You'll see that there are many files in the root, but forget about those. You'll want to open the `challenges` folder. There you'll find all the challenges, each one in its own folder.
 
 Inside of each, there'll be two files:
 - `index.ts`
@@ -27,7 +33,7 @@ Check it out!
 
 
 
-## Running the challenge's file 
+## Running the challenge's file
 
 You can run the challenge's file simply by running:
 
@@ -47,4 +53,3 @@ Once you have finished a challenge, you can test it simply by running:
 ## Made by
 
 [cajudeleite](https://github.com/cajudeleite)
-
