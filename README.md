@@ -2,7 +2,7 @@
 
 Hey there, thanks for learning `TypeScript`. Here are some `TypeScript` algorithm so you can practise.
 
-If I had to give you one piece of advice, is to code **functionaly** and not imperatively. `TypeScript` (and `JavaScript`) have so many useful functions you can use. The best place to find them is in the [MDN Web Docs ](https://linktodocumentation).
+If I had to give you one piece of advice, is to code **functionaly** and not imperatively. `TypeScript` (and `JavaScript`) have so many useful functions you can use. The best place to find them is in the [MDN Web Docs ](https://developer.mozilla.org/en-US/).
 
 Before you start, don't forget to do the setup and most importantly, **don't cheat!** The aim of these challenges is so you can improve your coding skills and have fun.
 ## Setup
