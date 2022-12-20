@@ -6,7 +6,11 @@
   "license": "MIT",
   "scripts": {
     "daemon": "ts-node challenges/daemon",
-    "test-daemon": "jest challenges/daemon/test.spec.ts"
+    "test-daemon": "jest challenges/daemon/test.spec.ts",
+    "openClosed": "ts-node challenges/openClosed",
+    "test-openClosed": "jest challenges/openClosed/test.spec.ts",
+    "playset": "ts-node challenges/playset",
+    "test-playset": "jest challenges/playset/test.spec.ts"
   },
   "devDependencies": {
     "@types/jest": "^29.2.4",
