@@ -79,8 +79,8 @@ const testInputs: { numbers: number[]; k: number; output: boolean }[] = [
   },
 ];
 
-testInputs.forEach((input, index) => {
-  test(`Test number ${index + 1}`, () => {
+testInputs.forEach((input) => {
+  test(`Testing numbers = ${input.numbers} and k = ${input.k}`, () => {
     expect(daemon(input.numbers, input.k)).toEqual(input.output);
   });
 });
