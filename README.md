@@ -38,17 +38,28 @@ Check it out!
 You can run the challenge's file simply by running:
 
 ```bash
+  yarn run <the-name-of-the-function>
+```
+
+Or:
+
+```bash
   npm run <the-name-of-the-function>
 ```
+
 Note that the name of the function is (at least it should) be the same as it's folder.
 ## Testing
 
 Once you have finished a challenge, you can test it simply by running:
 
 ```bash
+  yarn run test-<the-name-of-the-function>
+```
+Or:
+
+```bash
   npm run test-<the-name-of-the-function>
 ```
-
 
 ## Made by
 
